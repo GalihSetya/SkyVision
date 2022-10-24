@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="words">
+        <item>Merkurius</item>
+        <item>Merkurius:orbit</item>
+        <item>Merkurius:rotation</item>
+        <item>Merkurius:bulan</item>
+        <item>Venus</item>
+        <item>Venus:orbit</item>
+        <item>Venus:rotation</item>
+        <item>Venus:bulan</item>
+        <item>Bumi</item>
+        <item>Bumi:orbit</item>
+        <item>Bumi:rotation</item>
+        <item>Bumi:bulan</item>
+        <item>Mars</item>
+        <item>Mars:orbit</item>
+        <item>Mars:rotation</item>
+        <item>Mars:bulan</item>
+        <item>Jupiter</item>
+        <item>Jupiter:orbit</item>
+        <item>Jupiter:rotation</item>
+        <item>Jupiter:bulan</item>
+        <item>Saturnus</item>
+        <item>Saturnus:orbit</item>
+        <item>Saturnus:rotation</item>
+        <item>Saturnus:bulan</item>
+        <item>Uranus</item>
+        <item>Uranus:orbit</item>
+        <item>Uranus:rotation</item>
+        <item>Uranus:bulan</item>
+        <item>Neptunus</item>
+        <item>Neptunus:orbit</item>
+        <item>Neptunus:rotation</item>
+        <item>Neptunus:bulan</item>
+    </string-array>
+</resources>
